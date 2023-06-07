@@ -1,0 +1,3 @@
+## Refatorando um código para teste.
+
+Modelos de aprendizado de máquina treinados em dados sintéticos para estimar caixas delimitadoras em 3D e posar de objetos na cena. Ele pega como entrada uma sequência de quadros de uma câmera ou fluxo de vídeo e gera um fluxo de detecções e faixas de objetos 3D. A Objectron usa uma combinação de calibração da câmera, modelos de objetos 3D e estimativa de profundidade para obter alta precisão na detecção de objetos 3D.
